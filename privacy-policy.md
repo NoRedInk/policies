@@ -27,6 +27,7 @@ If you have any questions or concerns about our Privacy Policy, please send a de
 * [Is Personal Information about me secure?](#is_personal_information_about_me_secure)
 * [What Personal Information can I access?](#what_personal_information_can_i_access)
 * [What choices do I have?](#what_choices_do_i_have)
+* [Addendum for Connecticut Users](/privacy/ct-addendum)
 
 ## <a name="what_does_this_privacy_policy_cover">What does this Privacy Policy cover?</a>
 
