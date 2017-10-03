@@ -12,24 +12,24 @@ If you have any questions or concerns about our Privacy Policy, please send a de
 
 ## Quick Reference##
 
-* [What does this Privacy Policy cover?](#what_does_this_privacy_policy_cover)
-* [Will NoRedInk ever change this Privacy Policy?](#will_noredink_ever_change_this_privacy_policy)
-* [What Information does NoRedInk collect?](#what_information_does_noredink_collect)
-    - [Information You Provide to Us](#information_you_provide_to_us)
-    - [Information Collected Automatically](#information_collected_automatically)
-* [Will NoRedInk share any of the Personal Information it receives?](#will_noredink_share_any_of_the_personal_information_it_receives)
-    - [Usage Information](#usage_information)
-    - [Affiliated Businesses](#affiliated_businesses)
+* [What does this Privacy Policy cover?](#what-does-this-privacy-policy-cover)
+* [Will NoRedInk ever change this Privacy Policy?](#will-noredink-ever-change-this-privacy-policy)
+* [What Information does NoRedInk collect?](#what-information-does-noredink-collect)
+    - [Information You Provide to Us](#information-you-provide-to-us)
+    - [Information Collected Automatically](#information-collected-automatically)
+* [Will NoRedInk share any of the Personal Information it receives?](#will-noredink-share-any-of-the-personal-information-it-receives)
+    - [Usage Information](#usage-information)
+    - [Affiliated Businesses](#affiliated-businesses)
     - [Agents](#agents)
-    - [User Profiles and Submissions](#user_profiles_and_submissions)
-    - [Business Transfers](#business_transfers)
-    - [Protection of NoRedInk and Others](#protection_of_noredink_and_others)
-* [Is Personal Information about me secure?](#is_personal_information_about_me_secure)
-* [What Personal Information can I access?](#what_personal_information_can_i_access)
-* [What choices do I have?](#what_choices_do_i_have)
+    - [User Profiles and Submissions](#user-profiles-and-submissions)
+    - [Business Transfers](#business-transfers)
+    - [Protection of NoRedInk and Others](#protection-of-noredink-and-others)
+* [Is Personal Information about me secure?](#is-personal-information-about-me-secure)
+* [What Personal Information can I access?](#what-personal-information-can-i-access)
+* [What choices do I have?](#what-choices-do-i-have)
 * [Addendum for Connecticut Users](/privacy/ct-addendum)
 
-## <a name="what_does_this_privacy_policy_cover">What does this Privacy Policy cover?</a>
+## What does this Privacy Policy cover?
 
 **This Privacy Policy covers how we treat personally identifiable information ("Personal Information") that we gather when you are accessing or using our Services, but not to the practices of companies we don't own or control, or people that we don't manage.**
 
@@ -41,17 +41,17 @@ As noted in the [Terms of Use,](/terms) we only collect Personal Information thr
 
 When we use the term “Personal Information” in this Privacy Policy, we are referring to personally identifiable information of individual registrants of the Services.  References to “Children's Personal Information” only apply to personally identifiable information of users who have registered for the Services as minor students (i.e., students under the age of 13). General references to “information” apply to all users.
 
-## <a name="will_noredink_ever_change_this_privacy_policy">Will NoRedInk ever change this Privacy Policy?</a>
+## Will NoRedInk ever change this Privacy Policy?
 
 **We're constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well.**
 
 We will alert you to material changes at least 30 days before they take effect by placing a notice on noredink.com, by sending you an email, and/or by some other means. We reserve the right, however, to effect important changes more quickly as needed, as in the case of a security threat or other emergency situation. Please note that if you've opted not to receive legal notice emails from us (or you haven't provided us with your email address), those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them. If you use the Services after any changes to the Privacy Policy have been made effective, that means you agree to all of the changes.
 
-## <a name="what_information_does_noredink_collect">What Information does NoRedInk collect?</a>
+## What Information does NoRedInk collect?
 
 **This section covers two types of information: information you provide to us, and information collected automatically.**
 
-### <a name="information_you_provide_to_us">Information You Provide to Us:</a>
+### Information You Provide to Us:
 
 **It is our objective to collect and store only user information you knowingly provide to us and that is reasonably necessary to operate the Services.**
 
@@ -59,7 +59,7 @@ We receive and store any information you knowingly provide to us. For example, t
 
 We may communicate with you if you've provided us the means to do so. For example, if you've given us your email address, we may email you about update to the Services.  If you do not want to receive communications from us, please indicate your preference by emailing [support@noredink.com](mailto:support@noredink.com).
 
-### <a name="information_collected_automatically">Information Collected Automatically</a>
+### Information Collected Automatically
 
 **We collect some information automatically, as detailed below, but we never use it in a way that would identify you personally.**
 
@@ -67,55 +67,55 @@ Whenever you interact with our Services, we automatically receive and record inf
 
 When we collect the usage information described above, we only use this data in aggregate form, and not in a manner that would identify you personally. For example, this aggregate data can tell us how often users use a particular feature of the Services, and we can use that knowledge to make the Services interesting to as many users as possible.
 
-## <a name="will_noredink_share_any_of_the_personal_information_it_receives">Will NoRedInk share any of the Personal Information it receives?</a>
+## Will NoRedInk share any of the Personal Information it receives?
 
 **We won't rent or sell (including for purposes of marketing or advertising) your Personal Information in personally identifiable form to anyone.**
 
 We may share your Personal Information with third parties for other reasons, but only as described in this section.
 
-### <a name="usage_information">Usage Information</a>
+### Usage Information
 
 *This section describes how we share statistical data we collect on the site.*
 
 NoRedInk uses aggregate, de-identified user data to enable us to figure out how often users use parts of the Services, so that we can customize and improve those Services. As part of our use of such information, we may provide such information to our partners (only in a de-identified format) about how our users use our site. We share this type of statistical data so that our partners also understand how often people use our partners' services and the Services to help provide you with an optimal online experience. We may link usage information to Personal Information that we collect through the Services, but we will only use this linked information internally (for example, to customize your experience), and will not disclose it in linked format to third parties.
 
-### <a name="affiliated_businesses">Affiliated Businesses</a>
+### Affiliated Businesses
 
 *This section describes how we share information with companies like Facebook and Twitter.*
 
 In certain situations, businesses or third party websites we're affiliated with may provide services to you through the Services (either alone or jointly with us). You can recognize when an affiliated business is associated with such transactions or services by the display of their name and/or logo, and **we will share your Personal Information with that affiliated business only with your permission, and only to the extent that it is related to such transactions or services**. One such service may include the ability for you to automatically transmit Third Party Account Information to your Services profile or to automatically transmit information in your Services profile to your third party account; for example, you may be able to post work that you have accomplished on your Facebook account. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business' or websites' policies. If you are a student, we will not share your Personal Information in connection with any commercial third party transaction or service.
 
-### <a name="agents">Agents</a>
+### Agents
 
 *This section describes how we share information with companies and people who help us provide NoRedInk's services to you.*
 
 We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you; for example, we may use Amazon Web Services to provide server space to us. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us in providing the services. If you'd like a list of the companies and people to whom we are sending this information, please email [support@noredink.com](mailto:support@noredink.com).
 
-### <a name="user_profiles_and_submissions">User Profiles and Submissions</a>
+### User Profiles and Submissions
 
 *This section describes how we share information with other NoRedInk users.*
 
 Certain user profile information, including your name, location, and any video or image content that such user has uploaded to the Services, may be displayed to other users to facilitate user interaction within the Services or address your request for our services. Your account privacy settings may allow you to limit the other users who can see the Personal Information in your user profile and/or what information in your user profile is visible to others. Please remember that any content you upload to your public user profile, along with any Personal Information or content that you voluntarily disclose online in a manner other users can view (on discussion boards, in messages and chat areas, etc.) becomes publicly available, and can be collected and used by others. Your user name may also be displayed to other users if and when you send messages or comments or upload images or videos through the Services and other users can contact you through messages and comments.  Additionally, if you sign into the Services through a third party social networking site or service, your list of “friends” and interests from that site or service may be automatically imported to the Services. Also, such “friends,” if they are also registered users of the Services, may be able to access certain non-public information you have entered in your Services user profile. Again, we do not control the policies and practices of any other third party site or service.
 
-### <a name="business_transfers">Business Transfers</a>
+### Business Transfers
 
 *This section describes how we share information if someone else takes over control of NoRedInk or if we go out of business.*
 
 We may choose to buy or sell assets. If we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, we will not transfer your Personal Information unless the buyer or acquirer (1) intends to maintain and provide the Services as a going concern and (2) becomes subject to the terms of this Privacy Policy, including providing notice and an opportunity for you to cease use of the Services before any changes to the terms of this Privacy Policy take effect.
 
-### <a name="protection_of_noredink_and_others">Protection of NoRedInk and Others</a>
+### Protection of NoRedInk and Others
 
 *This section describes how we might share information in other circumstances.*
 
 We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of NoRedInk, our employees, our users, or others.
 
-## <a name="is_personal_information_about_me_secure">Is Personal Information about me secure?</a>
+## Is Personal Information about me secure?
 
 Your account is protected by a password for your privacy and security. If you access your account via a third party site or service, you may have additional or different sign-on protections via that third party site or service. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password and/or other sign-on mechanism appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
 
 We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but unfortunately, we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
 
-## <a name="what_personal_information_can_i_access">What Personal Information can I access?</a>
+## What Personal Information can I access?
 
 Through your account settings, you may access, and, in some cases, edit or delete the following information you've provided to us:
 
@@ -132,7 +132,7 @@ The information you can view, update, and delete may change as the Services chan
 
 Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to [support@noredink.com](mailto:support@noredink.com).
 
-## <a name="what_choices_do_i_have">What choices do I have?</a>
+## What choices do I have?
 
 You can always choose not to disclose information to us, but keep in mind some information may be needed to register with us or to take advantage of some of our special features.
 
