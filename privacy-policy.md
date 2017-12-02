@@ -1,8 +1,4 @@
-# Privacy Policy
-
 *Effective date: April 29, 2015*
-
-**We at NoRedInk know you care about how your personal information is used and shared, and we take your privacy very seriously. Please read on to learn more about how we collect and use your information.** 
 
 By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
 
