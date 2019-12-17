@@ -85,7 +85,7 @@ In certain situations, businesses or third party websites we're affiliated with 
 
 *This section describes how we share information with companies and people who help us provide NoRedInk's services to you.*
 
-We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you; for example, we may use Amazon Web Services to provide server space to us. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us in providing the services. If you'd like a list of the companies and people to whom we are sending this information, please email [support@noredink.com](mailto:support@noredink.com).
+We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you; for example, we may use Amazon Web Services to provide server space to us. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us in providing the services.
 
 ### User Profiles and Submissions
 
