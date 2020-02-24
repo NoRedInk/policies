@@ -6,7 +6,7 @@ Remember that your use of NoRedInk's Services is at all times subject to the [Te
 
 If you have any questions or concerns about our Privacy Policy, please send a detailed message to [support@noredink.com](mailto:support@noredink.com), and we will try to resolve your concerns.
 
-## Quick Reference##
+## Quick Reference
 
 * [What does this Privacy Policy cover?](#what-does-this-privacy-policy-cover)
 * [Will NoRedInk ever change this Privacy Policy?](#will-noredink-ever-change-this-privacy-policy)
